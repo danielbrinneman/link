@@ -1,0 +1,13 @@
+.latestVideoLink {
+  display: block;
+  max-width: 25%;
+  border-radius: 30px;
+  background-color: #aad;
+  padding: 2rem;
+  color: #333;
+  text-decoration: none;
+  font-size: large;
+  text-align: center;
+  font-variant: small-caps;
+  text-transform: uppercase;
+}
